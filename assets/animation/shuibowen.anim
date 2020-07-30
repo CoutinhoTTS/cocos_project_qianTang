@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "shuibowen",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 4.016666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "bowen_0": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0,
+                "y": 0
+              }
+            },
+            {
+              "frame": 4.016666666666667,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 4.5,
+                "y": 4.5
+              }
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 1,
+              "value": 255
+            },
+            {
+              "frame": 3.4833333333333334,
+              "value": 255
+            },
+            {
+              "frame": 4,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}
